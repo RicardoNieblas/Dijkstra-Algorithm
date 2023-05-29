@@ -1,0 +1,92 @@
+<svg width="61.945mm" height="60.479mm" version="1.1" viewBox="0 0 61.945 60.479" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <marker id="marker1711" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker1669" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker1579" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Mend" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-73.004 -3.3125)">
+  <g fill="none" stroke="#000">
+   <path d="m79.375 58.875h55.562l1e-5 -1e-6" stroke-width=".23779px"/>
+   <path d="m79.375 58.875v-55.563" stroke-width=".27816px"/>
+   <g stroke-width=".26458px">
+    <path d="m84.667 57.552v2.6458"/>
+    <path d="m89.958 57.552v2.6458"/>
+    <path d="m95.25 57.552v2.6458"/>
+    <path d="m100.54 57.552v2.6458"/>
+    <path d="m105.83 57.552v2.6458"/>
+    <path d="m111.12 57.552v2.6458"/>
+    <path d="m116.42 57.552v2.6458"/>
+    <path d="m121.71 57.552v2.6458"/>
+    <path d="m127 57.552v2.6458"/>
+    <path d="m132.29 57.552v2.6458"/>
+    <path d="m80.698 53.583h-2.6458"/>
+    <path d="m80.698 48.292h-2.6458"/>
+    <path d="m80.698 43h-2.6458"/>
+    <path d="m80.698 37.708h-2.6458"/>
+    <path d="m80.698 32.417h-2.6458"/>
+    <path d="m80.698 27.125h-2.6458"/>
+    <path d="m80.698 21.833h-2.6458"/>
+    <path d="m80.698 16.542h-2.6458"/>
+   </g>
+  </g>
+  <g fill="#000000" font-family="sans-serif" font-size="3.5278px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px">
+   <text x="74.532555" y="54.57552" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="74.532555" y="54.57552" font-family="sans-serif" font-size="2.8222px" stroke-width=".26458" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">1</tspan></text>
+   <text x="74.415421" y="49.287521" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="74.415421" y="49.287521" font-family="sans-serif" font-size="2.8222px" stroke-width=".26458" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">2</tspan></text>
+   <text x="74.444359" y="43.960258" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="74.444359" y="43.960258" font-family="sans-serif" font-size="2.8222px" stroke-width=".26458" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">3</tspan></text>
+   <text x="74.368568" y="38.654339" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="74.368568" y="38.654339" font-family="sans-serif" font-size="2.8222px" stroke-width=".26458" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">4</tspan></text>
+   <text x="74.431961" y="33.327076" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="74.431961" y="33.327076" font-family="sans-serif" font-size="2.8222px" stroke-width=".26458" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">5</tspan></text>
+   <text x="74.385101" y="28.040462" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="74.385101" y="28.040462" font-family="sans-serif" font-size="2.8222px" stroke-width=".26458" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">6</tspan></text>
+   <text x="74.409912" y="22.736607" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="74.409912" y="22.736607" font-family="sans-serif" font-size="2.8222px" stroke-width=".26458" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">7</tspan></text>
+   <text x="74.400261" y="17.430698" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="74.400261" y="17.430698" font-family="sans-serif" font-size="2.8222px" stroke-width=".26458" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">8</tspan></text>
+  </g>
+  <path d="m80.698 11.25h-2.6458" fill="none" stroke="#000" stroke-width=".26458px"/>
+  <path d="m80.698 5.9583h-2.6458" fill="none" stroke="#000" stroke-width=".26458px"/>
+  <text x="74.418175" y="12.125487" fill="#000000" font-family="sans-serif" font-size="3.5278px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="74.418175" y="12.125487" font-family="sans-serif" font-size="2.8222px" stroke-width=".26458" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">9</tspan></text>
+  <text x="72.621216" y="6.8182068" fill="#000000" font-family="sans-serif" font-size="3.5278px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="72.621216" y="6.8182068" font-family="sans-serif" font-size="2.8222px" stroke-width=".26458" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">10</tspan></text>
+  <path d="m79.375 58.875 10.583-21.167" fill="none" marker-end="url(#Arrow1Mend)" stroke="#000" stroke-width=".265"/>
+  <text x="87.539474" y="35.851685" fill="#000000" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="87.539474" y="35.851685" font-family="sans-serif" font-size="3.5278px" stroke-width=".26458" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">p1</tspan></text>
+  <path d="m79.375 58.875 26.458-10.583" fill="none" marker-end="url(#marker1579)" stroke="#000" stroke-width=".26458px"/>
+  <g fill="#000000" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px">
+   <text x="104.91072" y="52.141697" style="line-height:1.25" xml:space="preserve"><tspan x="104.91072" y="52.141697" font-family="sans-serif" font-size="3.5278px" stroke-width=".26458" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">p2</tspan></text>
+   <text x="84.04274" y="8.5106211" style="line-height:1.25" xml:space="preserve"><tspan x="84.04274" y="8.5106211" font-family="sans-serif" font-size="3.5278px" stroke-width=".26458" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">p1 = (2,4)</tspan></text>
+   <text x="84.04274" y="14.925291" style="line-height:1.25" xml:space="preserve"><tspan x="84.04274" y="14.925291" font-family="sans-serif" font-size="3.5278px" stroke-width=".26458" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">p2 = (5,2)</tspan></text>
+  </g>
+  <path d="m89.958 37.708 26.458-10.583" fill="none" marker-end="url(#marker1669)" stroke="#000" stroke-width=".26458px"/>
+  <path d="m105.83 48.292 10.583-21.167" fill="none" marker-end="url(#marker1711)" stroke="#000" stroke-width=".26458px"/>
+  <g fill="#000000" font-family="sans-serif" letter-spacing="0px" word-spacing="0px">
+   <text x="84.04274" y="20.858482" font-size="10.583px" stroke-width=".26458" style="line-height:1.25" xml:space="preserve"><tspan x="84.04274" y="20.858482" font-family="sans-serif" font-size="3.5278px" stroke-width=".26458" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">p3 = (7,6)</tspan></text>
+   <flowRoot transform="scale(.26458)" font-size="40px" style="line-height:1.25" xml:space="preserve"><flowRegion><rect x="235" y="12.52" width="60" height="200"/></flowRegion><flowPara/></flowRoot>
+   <text x="114.63839" y="25.3486" font-size="10.583px" stroke-width=".26458" style="line-height:1.25" xml:space="preserve"><tspan x="114.63839" y="25.3486" font-family="sans-serif" font-size="3.5278px" stroke-width=".26458" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">p3</tspan></text>
+   <g font-size="3.5278px" stroke-width=".26458">
+    <text x="83.486992" y="63.74791" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="83.486992" y="63.74791" font-family="sans-serif" font-size="2.8222px" stroke-width=".26458" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">1</tspan></text>
+    <text x="88.797241" y="63.765823" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="88.797241" y="63.765823" font-family="sans-serif" font-size="2.8222px" stroke-width=".26458" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">2</tspan></text>
+    <text x="94.095787" y="63.744465" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="94.095787" y="63.744465" font-family="sans-serif" font-size="2.8222px" stroke-width=".26458" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">3</tspan></text>
+    <text x="99.408104" y="63.744465" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="99.408104" y="63.744465" font-family="sans-serif" font-size="2.8222px" stroke-width=".26458" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">4</tspan></text>
+    <text x="104.65222" y="63.723106" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="104.65222" y="63.723106" font-family="sans-serif" font-size="2.8222px" stroke-width=".26458" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">5</tspan></text>
+    <text x="109.95145" y="63.742397" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="109.95145" y="63.742397" font-family="sans-serif" font-size="2.8222px" stroke-width=".26458" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">6</tspan></text>
+    <text x="115.24033" y="63.744465" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="115.24033" y="63.744465" font-family="sans-serif" font-size="2.8222px" stroke-width=".26458" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">7</tspan></text>
+    <text x="120.54578" y="63.744465" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="120.54578" y="63.744465" font-family="sans-serif" font-size="2.8222px" stroke-width=".26458" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">8</tspan></text>
+    <text x="125.84914" y="63.745155" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="125.84914" y="63.745155" font-family="sans-serif" font-size="2.8222px" stroke-width=".26458" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">9</tspan></text>
+    <text x="130.12518" y="63.743774" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="130.12518" y="63.743774" font-family="sans-serif" font-size="2.8222px" stroke-width=".26458" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">10</tspan></text>
+   </g>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,182 @@
+<svg width="113.12mm" height="104.68mm" version="1.1" viewBox="0 0 113.12 104.68" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <marker id="marker22612" overflow="visible" orient="auto">
+   <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#f00" fill-rule="evenodd" stroke="#f00" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker20480" overflow="visible" orient="auto">
+   <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#f00" fill-rule="evenodd" stroke="#f00" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker19179" overflow="visible" orient="auto">
+   <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#f00" fill-rule="evenodd" stroke="#f00" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker15799" overflow="visible" orient="auto">
+   <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#f00" fill-rule="evenodd" stroke="#f00" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker15799-1" overflow="visible" orient="auto">
+   <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#f00" fill-rule="evenodd" stroke="#f00" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker15799-7" overflow="visible" orient="auto">
+   <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#f00" fill-rule="evenodd" stroke="#f00" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker15799-2" overflow="visible" orient="auto">
+   <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#f00" fill-rule="evenodd" stroke="#f00" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker19179-2" overflow="visible" orient="auto">
+   <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#f00" fill-rule="evenodd" stroke="#f00" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker22612-1" overflow="visible" orient="auto">
+   <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#f00" fill-rule="evenodd" stroke="#f00" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker22612-5" overflow="visible" orient="auto">
+   <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#f00" fill-rule="evenodd" stroke="#f00" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker22612-6" overflow="visible" orient="auto">
+   <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#f00" fill-rule="evenodd" stroke="#f00" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker22612-9" overflow="visible" orient="auto">
+   <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#f00" fill-rule="evenodd" stroke="#f00" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker22612-51" overflow="visible" orient="auto">
+   <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#f00" fill-rule="evenodd" stroke="#f00" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker22612-8" overflow="visible" orient="auto">
+   <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#f00" fill-rule="evenodd" stroke="#f00" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker22612-4" overflow="visible" orient="auto">
+   <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#f00" fill-rule="evenodd" stroke="#f00" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker22612-96" overflow="visible" orient="auto">
+   <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#f00" fill-rule="evenodd" stroke="#f00" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker22612-17" overflow="visible" orient="auto">
+   <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#f00" fill-rule="evenodd" stroke="#f00" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker22612-7" overflow="visible" orient="auto">
+   <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#f00" fill-rule="evenodd" stroke="#f00" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker22612-4-9" overflow="visible" orient="auto">
+   <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#f00" fill-rule="evenodd" stroke="#f00" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker22612-96-2" overflow="visible" orient="auto">
+   <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#f00" fill-rule="evenodd" stroke="#f00" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker22612-17-2" overflow="visible" orient="auto">
+   <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#f00" fill-rule="evenodd" stroke="#f00" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker22612-7-4" overflow="visible" orient="auto">
+   <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#f00" fill-rule="evenodd" stroke="#f00" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker22612-51-0" overflow="visible" orient="auto">
+   <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#f00" fill-rule="evenodd" stroke="#f00" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker22612-51-0-1" overflow="visible" orient="auto">
+   <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#f00" fill-rule="evenodd" stroke="#f00" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker22612-51-0-3" overflow="visible" orient="auto">
+   <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#f00" fill-rule="evenodd" stroke="#f00" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker22612-51-0-5" overflow="visible" orient="auto">
+   <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#f00" fill-rule="evenodd" stroke="#f00" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker22612-51-0-8" overflow="visible" orient="auto">
+   <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#f00" fill-rule="evenodd" stroke="#f00" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker22612-51-0-9" overflow="visible" orient="auto">
+   <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#f00" fill-rule="evenodd" stroke="#f00" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker22612-51-0-83" overflow="visible" orient="auto">
+   <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#f00" fill-rule="evenodd" stroke="#f00" stroke-width="1pt"/>
+  </marker>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-19.17 -56.078)">
+  <g shape-rendering="auto">
+   <path d="m131.93 80.29v-0.26367h-98.065v0.26367z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+   <path d="m131.93 67.061v-0.26367h-98.065v0.26367z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+   <path d="m131.93 93.535v-0.26367h-98.065v0.26367z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+   <path d="m132.29 119.73v-0.26367h-98.065v0.26367z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+   <path d="m132.29 106.5v-0.26368h-98.065v0.26368z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+   <path d="m132.29 132.97v-0.26367h-98.065v0.26367z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+   <path d="m132.29 159.7v-0.26367h-98.065v0.26367z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  </g>
+  <path d="m113.77 146.19h13.229" fill="none" marker-end="url(#marker22612-17-2)" stroke="#f00" stroke-width=".26458px"/>
+ </g>
+ <g transform="translate(-19.17 -56.078)">
+  <g fill="#000000" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px">
+   <text x="19.169134" y="68.03862" style="line-height:1.25" xml:space="preserve"><tspan x="19.169134" y="68.03862" font-family="sans-serif" font-size="3.5278px" stroke-width=".26458" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">x1</tspan></text>
+   <text x="19.095928" y="80.087143" style="line-height:1.25" xml:space="preserve"><tspan x="19.095928" y="80.087143" font-family="sans-serif" font-size="3.5278px" stroke-width=".26458" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">x2</tspan></text>
+   <text x="19.114014" y="92.559731" style="line-height:1.25" xml:space="preserve"><tspan x="19.114014" y="92.559731" font-family="sans-serif" font-size="3.5278px" stroke-width=".26458" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">x3</tspan></text>
+   <text x="19.066643" y="104.92551" style="line-height:1.25" xml:space="preserve"><tspan x="19.066643" y="104.92551" font-family="sans-serif" font-size="3.5278px" stroke-width=".26458" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">x4</tspan></text>
+   <text x="19.10626" y="117.38947" style="line-height:1.25" xml:space="preserve"><tspan x="19.10626" y="117.38947" font-family="sans-serif" font-size="3.5278px" stroke-width=".26458" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">x5</tspan></text>
+   <text x="19.076979" y="129.8121" style="line-height:1.25" xml:space="preserve"><tspan x="19.076979" y="129.8121" font-family="sans-serif" font-size="3.5278px" stroke-width=".26458" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">x6</tspan></text>
+   <text x="19.092482" y="142.23645" style="line-height:1.25" xml:space="preserve"><tspan x="19.092482" y="142.23645" font-family="sans-serif" font-size="3.5278px" stroke-width=".26458" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">x7</tspan></text>
+   <text x="19.086452" y="154.63797" style="line-height:1.25" xml:space="preserve"><tspan x="19.086452" y="154.63797" font-family="sans-serif" font-size="3.5278px" stroke-width=".26458" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">x8</tspan></text>
+   <text x="28.933601" y="68.03862" style="line-height:1.25" xml:space="preserve"><tspan x="28.933601" y="68.03862" font-size="3.5278px" stroke-width=".26458">1</tspan></text>
+   <text x="28.974083" y="80.087143" style="line-height:1.25" xml:space="preserve"><tspan x="28.974083" y="80.087143" font-size="3.5278px" stroke-width=".26458">3</tspan></text>
+   <text x="28.949108" y="92.506332" style="line-height:1.25" xml:space="preserve"><tspan x="28.949108" y="92.506332" font-size="3.5278px" stroke-width=".26458">5</tspan></text>
+   <text x="28.961166" y="104.97891" style="line-height:1.25" xml:space="preserve"><tspan x="28.961166" y="104.97891" font-size="3.5278px" stroke-width=".26458">2</tspan></text>
+   <text x="28.933601" y="117.39809" style="line-height:1.25" xml:space="preserve"><tspan x="28.933601" y="117.39809" font-size="3.5278px" stroke-width=".26458">1</tspan></text>
+   <text x="28.949108" y="129.76387" style="line-height:1.25" xml:space="preserve"><tspan x="28.949108" y="129.76387" font-size="3.5278px" stroke-width=".26458">5</tspan></text>
+   <text x="29.004227" y="142.23645" style="line-height:1.25" xml:space="preserve"><tspan x="29.004227" y="142.23645" font-size="3.5278px" stroke-width=".26458">4</tspan></text>
+   <text x="28.933601" y="154.58801" style="line-height:1.25" xml:space="preserve"><tspan x="28.933601" y="154.58801" font-size="3.5278px" stroke-width=".26458">1</tspan></text>
+   <text x="73.058441" y="58.659706" style="line-height:1.25" xml:space="preserve"><tspan x="73.058441" y="58.659706" font-family="sans-serif" font-size="3.5278px" stroke-width=".26458" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Tiempo</tspan></text>
+   <text x="45.866943" y="65.055122" style="line-height:1.25" xml:space="preserve"><tspan x="45.866943" y="65.055122" font-size="3.5278px" stroke-width=".26458">1</tspan></text>
+   <text x="59.036873" y="65.077515" style="line-height:1.25" xml:space="preserve"><tspan x="59.036873" y="65.077515" font-size="3.5278px" stroke-width=".26458">2</tspan></text>
+   <text x="72.342888" y="65.050819" style="line-height:1.25" xml:space="preserve"><tspan x="72.342888" y="65.050819" font-size="3.5278px" stroke-width=".26458">3</tspan></text>
+   <text x="85.767761" y="65.050819" style="line-height:1.25" xml:space="preserve"><tspan x="85.767761" y="65.050819" font-size="3.5278px" stroke-width=".26458">4</tspan></text>
+   <text x="99.0979" y="65.024117" style="line-height:1.25" xml:space="preserve"><tspan x="99.0979" y="65.024117" font-size="3.5278px" stroke-width=".26458">5</tspan></text>
+   <text x="112.43491" y="65.048233" style="line-height:1.25" xml:space="preserve"><tspan x="112.43491" y="65.048233" font-size="3.5278px" stroke-width=".26458">6</tspan></text>
+   <text x="125.80122" y="65.050819" style="line-height:1.25" xml:space="preserve"><tspan x="125.80122" y="65.050819" font-size="3.5278px" stroke-width=".26458">7</tspan></text>
+  </g>
+  <path d="m132.29 146.45v-0.26367h-98.065v0.26367z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  <g fill="none">
+   <g stroke="#000" stroke-dasharray="0.26458332, 0.52916663" stroke-width=".26458">
+    <path d="m47.625 66.812v92.604"/>
+    <path d="m60.854 66.812v92.604"/>
+    <path d="m74.083 66.812v92.604"/>
+    <path d="m87.313 66.812v92.604"/>
+    <path d="m100.54 66.812v92.604"/>
+    <path d="m113.77 66.812v92.604"/>
+    <path d="m127 66.812v92.604"/>
+   </g>
+   <g stroke="#f00" stroke-width=".26458px">
+    <path d="m33.867 66.797 13.758 13.244" marker-end="url(#marker15799)"/>
+    <path d="m33.867 93.256 13.758 13.244" marker-end="url(#marker15799-1)"/>
+    <path d="m33.867 119.71 13.758 13.244" marker-end="url(#marker15799-7)"/>
+    <path d="m33.867 146.17 13.758 13.244" marker-end="url(#marker15799-2)"/>
+    <path d="m47.625 80.042 13.229 26.458" marker-end="url(#marker19179)"/>
+    <path d="m47.625 132.96 13.229 26.458" marker-end="url(#marker19179-2)"/>
+    <path d="m60.854 106.5 13.229 52.917" marker-end="url(#marker20480)"/>
+    <path d="m74.083 159.42h13.229" marker-end="url(#marker22612)"/>
+    <path d="m87.313 159.42h13.229" marker-end="url(#marker22612-1)"/>
+    <path d="m87.313 106.5h13.229" marker-end="url(#marker22612-5)"/>
+    <path d="m100.54 159.42h13.229" marker-end="url(#marker22612-6)"/>
+    <path d="m100.54 132.96h13.229" marker-end="url(#marker22612-9)"/>
+    <path d="m100.54 106.5h13.229" marker-end="url(#marker22612-51)"/>
+    <path d="m100.54 80.042h13.229" marker-end="url(#marker22612-8)"/>
+    <path d="m113.77 66.812h13.229" marker-end="url(#marker22612-4)"/>
+    <path d="m113.77 80.042h13.229" marker-end="url(#marker22612-96)"/>
+    <path d="m113.77 93.271h13.229" marker-end="url(#marker22612-17)"/>
+    <path d="m113.77 106.5h13.229" marker-end="url(#marker22612-7)"/>
+    <path d="m113.77 119.73h13.229" marker-end="url(#marker22612-4-9)"/>
+    <path d="m113.77 132.96h13.229" marker-end="url(#marker22612-96-2)"/>
+    <path d="m113.77 159.42h13.229" marker-end="url(#marker22612-7-4)"/>
+    <path d="m34.396 80.042h13.229" marker-end="url(#marker22612-51-0)"/>
+    <path d="m34.396 106.5h13.229" marker-end="url(#marker22612-51-0-1)"/>
+    <path d="m34.396 132.96h13.229" marker-end="url(#marker22612-51-0-3)"/>
+    <path d="m34.396 159.42h13.229" marker-end="url(#marker22612-51-0-5)"/>
+    <path d="m47.625 106.5h13.229" marker-end="url(#marker22612-51-0-8)"/>
+    <path d="m47.625 159.42h13.229" marker-end="url(#marker22612-51-0-9)"/>
+    <path d="m60.854 159.42h13.229" marker-end="url(#marker22612-51-0-83)"/>
+   </g>
+  </g>
+ </g>
+</svg>
